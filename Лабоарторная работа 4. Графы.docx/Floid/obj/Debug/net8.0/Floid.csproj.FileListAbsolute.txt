@@ -1,0 +1,14 @@
+Q:\2 Курс\AиСД\Лабоарторная работа 4. Графы.docx\Floid\bin\Debug\net8.0\Floid.exe
+Q:\2 Курс\AиСД\Лабоарторная работа 4. Графы.docx\Floid\bin\Debug\net8.0\Floid.deps.json
+Q:\2 Курс\AиСД\Лабоарторная работа 4. Графы.docx\Floid\bin\Debug\net8.0\Floid.runtimeconfig.json
+Q:\2 Курс\AиСД\Лабоарторная работа 4. Графы.docx\Floid\bin\Debug\net8.0\Floid.dll
+Q:\2 Курс\AиСД\Лабоарторная работа 4. Графы.docx\Floid\bin\Debug\net8.0\Floid.pdb
+Q:\2 Курс\AиСД\Лабоарторная работа 4. Графы.docx\Floid\obj\Debug\net8.0\Floid.GeneratedMSBuildEditorConfig.editorconfig
+Q:\2 Курс\AиСД\Лабоарторная работа 4. Графы.docx\Floid\obj\Debug\net8.0\Floid.AssemblyInfoInputs.cache
+Q:\2 Курс\AиСД\Лабоарторная работа 4. Графы.docx\Floid\obj\Debug\net8.0\Floid.AssemblyInfo.cs
+Q:\2 Курс\AиСД\Лабоарторная работа 4. Графы.docx\Floid\obj\Debug\net8.0\Floid.csproj.CoreCompileInputs.cache
+Q:\2 Курс\AиСД\Лабоарторная работа 4. Графы.docx\Floid\obj\Debug\net8.0\Floid.dll
+Q:\2 Курс\AиСД\Лабоарторная работа 4. Графы.docx\Floid\obj\Debug\net8.0\refint\Floid.dll
+Q:\2 Курс\AиСД\Лабоарторная работа 4. Графы.docx\Floid\obj\Debug\net8.0\Floid.pdb
+Q:\2 Курс\AиСД\Лабоарторная работа 4. Графы.docx\Floid\obj\Debug\net8.0\Floid.genruntimeconfig.cache
+Q:\2 Курс\AиСД\Лабоарторная работа 4. Графы.docx\Floid\obj\Debug\net8.0\ref\Floid.dll

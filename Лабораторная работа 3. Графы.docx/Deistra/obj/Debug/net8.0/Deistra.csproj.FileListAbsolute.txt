@@ -1,0 +1,14 @@
+Q:\2 Курс\AиСД\Лабораторная работа 3. Графы.docx\Deistra\obj\Debug\net8.0\Deistra.GeneratedMSBuildEditorConfig.editorconfig
+Q:\2 Курс\AиСД\Лабораторная работа 3. Графы.docx\Deistra\obj\Debug\net8.0\Deistra.AssemblyInfoInputs.cache
+Q:\2 Курс\AиСД\Лабораторная работа 3. Графы.docx\Deistra\obj\Debug\net8.0\Deistra.AssemblyInfo.cs
+Q:\2 Курс\AиСД\Лабораторная работа 3. Графы.docx\Deistra\obj\Debug\net8.0\Deistra.csproj.CoreCompileInputs.cache
+Q:\2 Курс\AиСД\Лабораторная работа 3. Графы.docx\Deistra\bin\Debug\net8.0\Deistra.exe
+Q:\2 Курс\AиСД\Лабораторная работа 3. Графы.docx\Deistra\bin\Debug\net8.0\Deistra.deps.json
+Q:\2 Курс\AиСД\Лабораторная работа 3. Графы.docx\Deistra\bin\Debug\net8.0\Deistra.runtimeconfig.json
+Q:\2 Курс\AиСД\Лабораторная работа 3. Графы.docx\Deistra\bin\Debug\net8.0\Deistra.dll
+Q:\2 Курс\AиСД\Лабораторная работа 3. Графы.docx\Deistra\bin\Debug\net8.0\Deistra.pdb
+Q:\2 Курс\AиСД\Лабораторная работа 3. Графы.docx\Deistra\obj\Debug\net8.0\Deistra.dll
+Q:\2 Курс\AиСД\Лабораторная работа 3. Графы.docx\Deistra\obj\Debug\net8.0\refint\Deistra.dll
+Q:\2 Курс\AиСД\Лабораторная работа 3. Графы.docx\Deistra\obj\Debug\net8.0\Deistra.pdb
+Q:\2 Курс\AиСД\Лабораторная работа 3. Графы.docx\Deistra\obj\Debug\net8.0\Deistra.genruntimeconfig.cache
+Q:\2 Курс\AиСД\Лабораторная работа 3. Графы.docx\Deistra\obj\Debug\net8.0\ref\Deistra.dll
